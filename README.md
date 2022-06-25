@@ -1,25 +1,32 @@
-# VMC to MOP ‚Æ‚Í
-VMCProcotol ‚ğóM‚µ‚Ä MOP(https://github.com/HAL9HARUKU/MopUE4) ‚É”½‰f‚·‚é‚½‚ß‚Ìƒc[ƒ‹‚Å‚·B
+# VMC to MOP ã¨ã¯
+VMCProcotol ã‚’å—ä¿¡ã—ã¦ MOP(https://github.com/HAL9HARUKU/MopUE4) ã«åæ˜ ã™ã‚‹ãŸã‚ã®ãƒ„ãƒ¼ãƒ«ã§ã™ã€‚
+This is a tool to receive VMCProcotol and change it to MOP (https://github.com/HAL9HARUKU/MopUE4) in realtime.
 
-VMCProcotol ‚É‚Â‚¢‚Ä‚Í‚±‚¿‚ç‚ğQl‚É‚µ‚Ä‚­‚¾‚³‚¢B
+VMCProcotol ã«ã¤ã„ã¦ã¯ã“ã¡ã‚‰ã‚’å‚è€ƒã«ã—ã¦ãã ã•ã„ã€‚
+Please refer to here for VMCProcotol.
 https://protocol.vmc.info/
 
-## “®ìŠÂ‹«
-- Windows 10 64bit
+## å‹•ä½œç’°å¢ƒ / Operating System
+- Newer macOS versions, Intel or Silicon (see releases for info)
+- -æ–°ã—ã„macOSãƒãƒ¼ã‚¸ãƒ§ãƒ³ã€Intelã¾ãŸã¯Siliconï¼ˆè©³ç´°ã«ã¤ã„ã¦ã¯ãƒªãƒªãƒ¼ã‚¹ã‚’å‚ç…§ï¼‰
 
-## ŠJ”­ŠÂ‹«
+## é–‹ç™ºç’°å¢ƒ / Unity Version
 - Unity 2020.3.4f1
 
-## g‚¢•û
+## ä½¿ç”¨æ–¹æ³•ï¼ˆWindowsç‰ˆã®å ´åˆã€macOSã§ã‚‚åŒã˜ã‚ˆã†ã«å‹•ä½œã—ã¾ã™ï¼‰ / Wiki (for Windows version, works the same on macOS)
 https://github.com/HAL9HARUKU/VMCtoMOP/wiki
 
-## ƒ‰ƒCƒZƒ“ƒX
+## ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ / License
 MIT
 
-## ìÒ
-[‚Í‚é‚­](https://twitter.com/HAL9_HARUKU)
+## ä½œè€… / Authors
+[ã¯ã‚‹ã](https://twitter.com/HAL9_HARUKU) - å…ƒã®ã‚³ãƒ¼ãƒ‰ / Original Code
+[James Wilson](https://github.com/sssynk) - macOSãƒãƒ¼ãƒˆ / macOS Port
 
-## —š—ğ
+## å±¥æ­´ / History
+
+2022/06/25 v0.1.1
+macOSã«ç§»æ¤ / Ported to macOS
 
 2021/05/15 v0.1.0
-V‹Kì¬
+æ–°è¦ä½œæˆ / New Version
